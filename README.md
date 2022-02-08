@@ -5,6 +5,6 @@ I'm a junior JavaScript developer based in England. Experienced in front-end dev
 ## 🔭 Currently Working On
 
 ## 🌱 Currently Learning
-##⚡ Fun Fact
+## ⚡ Fun Fact
 
 ## 📫 Reach Me 
