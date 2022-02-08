@@ -1,5 +1,5 @@
 # Hello👋
-##💬 About Me
+## 💬 About Me
 I'm a junior JavaScript developer
 
 - 🔭 I’m currently working on ...
