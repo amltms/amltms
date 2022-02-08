@@ -1,4 +1,4 @@
-### Hello👋
+# Hello👋
 
 I'm a junior JavaScript developer
 
@@ -9,7 +9,6 @@ I'm a junior JavaScript developer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-#### Reach me👋
-### Reach me👋
-## Reach me👋
-# Reach me👋
+
+## Reach me @
+
