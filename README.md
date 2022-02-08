@@ -2,9 +2,9 @@
 ## 💬 About Me
 I'm a junior JavaScript developer based in England. Experienced in front-end development, usually working with React and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
+## 🔭 Currently Working On
 
-## 📫 Reach me 
+## 🌱 Currently Learning
+##⚡ Fun Fact
+
+## 📫 Reach Me 
