@@ -7,5 +7,4 @@ I'm a junior JavaScript developer based in England. Experienced in front-end dev
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 
-## Reach me 📫
-
+## 📫 Reach me 
