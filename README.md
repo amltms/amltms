@@ -1,6 +1,6 @@
 ### Hello👋
 
-Here are some ideas to get you started:
+I'm a junior JavaScript developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
