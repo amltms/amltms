@@ -1,7 +1,9 @@
 # 👋 Hello
-A JavaScript developer based in England. Experienced in front-end development, usually working with React and TypeScript.
+A JavaScript developer based in England. Experienced in Full Stack development, usually working with React and TypeScript.
 
 ## 🔭 Working On
-amltms.com/shutter
+[Shutter](https://www.amltms.com/shutter)
+
 ## 📫 Reach Me 
+[Portfolio](https://www.amltms.com/)
 amalthomas587@gmail.com
