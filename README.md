@@ -5,9 +5,9 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in UK
+* 🚀  I'm currently working on [Shutter](https://shutteraml.herokuapp.com/)
 * 🖥️  See my portfolio at [amltms.com](http://amltms.com)
 * ✉️  You can contact me at [amalthomas587@gmail.com](mailto:amalthomas587@gmail.com)
-* 🚀  I'm currently working on [Shutter](http://amltms.com/shutter)
 * 🧠  I'm learning Redux
 
 ### Skills
