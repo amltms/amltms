@@ -8,7 +8,7 @@ Full-Stack Developer
 * 🚀  I'm currently working on [Shutter](https://shutteraml.herokuapp.com/)
 * 🖥️  See my portfolio at [amltms.com](http://amltms.com)
 * ✉️  You can contact me at [amalthomas587@gmail.com](mailto:amalthomas587@gmail.com)
-* 🧠  I'm learning Redux
+* 🧠  I'm currently learning Next.js
 
 ### Skills
 
