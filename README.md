@@ -1,4 +1,4 @@
-Hi 👋 My name is Amal Thomas
+Hi I'm Amal👋
 ============================
 
 Full-Stack Developer
