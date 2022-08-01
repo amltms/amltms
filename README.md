@@ -7,7 +7,7 @@ Hi I'm Amal👋
 * 🖥️  Portfolio [amltms.com](http://amltms.com)
 * ✉️  Contact me at [amalthomas587@gmail.com](mailto:amalthomas587@gmail.com)
 
-### Skills
+### Stuff I Use
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -23,7 +23,7 @@ Hi I'm Amal👋
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/amltms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amltms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/amltms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Random GitHub Stats
 
