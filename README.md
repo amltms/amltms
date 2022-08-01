@@ -1,11 +1,11 @@
 Hi I'm Amal👋
 ============================
 
-* 🌍  I'm a full-stack developer based in UK
-* 🚀  I'm currently working on [Shutter](https://shutteraml.herokuapp.com/)
-* 🖥️  See my portfolio at [amltms.com](http://amltms.com)
-* ✉️  You can contact me at [amalthomas587@gmail.com](mailto:amalthomas587@gmail.com)
-* 🧠  I'm currently learning Next.js
+* 🌍  A Full-Stack developer based in the UK
+* 🚀  Currently working on [Shutter](https://shutteraml.herokuapp.com/)
+* 🧠  I'm currently learning Next.js for [ShutterNext](https://github.com/amltms/shutternext)
+* 🖥️  Portfolio [amltms.com](http://amltms.com)
+* ✉️  Contact me at [amalthomas587@gmail.com](mailto:amalthomas587@gmail.com)
 
 ### Skills
 
